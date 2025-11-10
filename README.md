@@ -1,7 +1,7 @@
 # DS-Lab (KCS351)
 For B.Tech Second Year AKTU students
 
-###Program List 
+### Program List 
 1. Develop a C program to implement Bubble Sort. [Program]()
 2. Develop a C program to implement Insertion Sort. [Program]()
 3. Develop a C program to implement Selection Sort. [Program]()
