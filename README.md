@@ -26,7 +26,7 @@ For B.Tech Second Year AKTU students
 22. Develop a C program to implement a traversal of Binary tree. [Program]()
 23. Develop a C program to search largest node, smallest node and count number of nodes in a Binary search tree. [Program]()
 24. Develop a C program to implement Heap sort. [Program]()
-25. Develop a C program to represent a graph using the Adjancey matrix. [Program]()
+25. Develop a C program to represent a graph using the Adjancey matrix. [Program](https://github.com/SaketJNU/DS-Lab/blob/main/codes/AdjanceyMatrix.C)
 26. Develop a C program to implement Breadth First Search(BFS). [Program]()
 27. Develop a C program to implement Kruskal's algorithm to find minimum spanning tree. [Program]()
 28. Develop a C program to implement Prim's algorithm to find minimum cost spanning tree. [Program]()
